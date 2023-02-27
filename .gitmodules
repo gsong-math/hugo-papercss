@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/gsong-math/gsong-math.github.io.git
+	branch = main
