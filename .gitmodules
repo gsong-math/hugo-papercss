@@ -1,3 +1,6 @@
 [submodule "themes/PaperCSS"]
 	path = themes/PaperCSS
 	url = https://github.com/zwbetz-gh/papercss-hugo-theme
+[submodule "public/gsong-math.github.io"]
+	path = public/gsong-math.github.io
+	url = https://github.com/gsong-math/gsong-math.github.io.git
