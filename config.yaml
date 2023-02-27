@@ -1,0 +1,66 @@
+baseURL: https://example.com
+languageCode: en-us
+defaultContentLanguage: en
+title: Guohui Song
+theme: PaperCSS
+
+taxonomies:
+  tag: tags
+
+permalinks:
+  post: /:filename/
+
+imaging:
+  quality: 99
+
+# To disable, set to an extremely large value, such as 999999
+paginate: 5
+
+params:
+  homeMetaContent: A Hugo theme made with PaperCSS, the less formal CSS framework.
+  # For more date formats see https://gohugo.io/functions/format/
+  dateFormat: Jan 2, 2006
+  navTitleLink: /
+
+menu:
+  nav:
+    - name: Home
+      url: /
+      weight: 1
+    - name: Research
+      url: /research/
+      weight: 2
+    - name: Teaching
+      url: /teaching/
+      weight: 3
+
+markup:
+  defaultMarkdownHandler: goldmark
+  goldmark:
+    extensions:
+      definitionList: true
+      footnote: true
+      linkify: true
+      strikethrough: true
+      table: true
+      taskList: true
+      typographer: true
+    parser:
+      attribute: true
+      autoHeadingID: true
+    renderer:
+      hardWraps: false
+      unsafe: true
+      xHTML: false
+  highlight:
+    codeFences: true
+    hl_Lines: ""
+    lineNoStart: 1
+    lineNos: false
+    lineNumbersInTable: true
+    noClasses: true
+    style: monokai
+    tabWidth: 4
+  tableOfContents:
+    endLevel: 6
+    startLevel: 2
