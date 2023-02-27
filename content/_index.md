@@ -24,7 +24,7 @@ title:
 
 <div class="mycontainer">
     <div class="img">
-        <img src="/images/GuohuiSong.jpg" alt="Guohui Song" width="200px" >
+        <img src="/images/GuohuiSong.jpg" alt="Guohui Song" width="125px" >
     </div>
     <div class="text">
     <img src="/images/signature.jpg" alt="Chinese name" width="100px">
