@@ -8,34 +8,21 @@ title:
 + [DMS-1521661](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1521661&HistoricalAwards=false)
   
 ## Research Interests
-+ Statistical Machine Learning: Bayesian Learning; Kernel-based Methods; Sparse Approximation
-+ Optimization: Distributed/Decentralized Algorithms; Optimization on Networks
-+ Applications: Synthetic-aperture radar (SAR); Magnetic Resonance Imaging (MRI); Financial Portfolio; Power Grids; Always looking for more...
+### Statistical Machine Learning: Bayesian Learning; Kernel-based Methods; Sparse Approximation
+### Optimization: Distributed/Decentralized Algorithms; Optimization on Networks
+### Applications: Synthetic-aperture radar (SAR); Magnetic Resonance Imaging (MRI); Financial Portfolio; Power Grids; Always looking for more...
 
 
-## Publication
+## Recent Publications (see a complete list at [Google Scholar](https://scholar.google.com/citations?hl=en&user=8uOEmHgAAAAJ))
 
-### Preprints
-[P04] Fast Multiscale Functional Estimation in Optimal EMG Placement for Robotic Prosthesis Controllers.
-/Under Review. / \n
-with Jin Ren, Lucia Tabacu, and Yuesheng Xu
+### Yao Xiao, Anne Gelb, and Guohui Song, Sequential Edge Detection Using Joint Hierarchical Bayesian Learning, _Under Review_.
+### Jin Ren, Guohui Song, Lucia Tabacu, and Yuesheng Xu, Fast Multiscale Functional Estimation in Optimal EMG Placement for Robotic Prosthesis Controllers, Journal of Integral Equations and Applications, _To Appear_. [ArXiv](https://arxiv.org/abs/2211.15042)
+### Jan Glaubitz, Anne Gelb, and Guohui Song, Generalized Sparse Bayesian Learning and Application to Image Reconstruction, _Under Review_. [ArXiv](https://arxiv.org/abs/2201.07061)
+### Yao Xiao, Jan Glaubitz, Anne Gelb and Guohui Song, Sequential Image Recovery from Noisy and Under-sampled Fourier Data, _Under Review_. [ArXiv](https://arxiv.org/abs/2203.14746)
+### Nazar Emirov, Guohui Song, and Qiyu Sun, A Divide-and-Conquer Algorithm for Distributed Optimization on Networks, _Under Review_. [ArXiv](https://arxiv.org/abs/2112.02197)
 
-:{*+\[P03\]+* *Generalized Sparse Bayesian Learning and Application to Image Reconstruction.*}
-/Under Review./ ~~[ArXiv](https://arxiv.org/abs/2201.07061)  \n
-with Jan Glaubitz and Anne Gelb
-
-:{*+\[P02\]+* *Sequential Image Recovery from Noisy and Under-sampled Fourier Data.*}
-/Under Review./ ~~[https://arxiv.org/abs/2203.14746 ArXiv] \n
-with Yao Xiao, Jan Glaubitz and Anne Gelb
-
-:{*+\[P01\]+* *A Divide-and-Conquer Algorithm for Distributed Optimization on Networks.*}
-/Under Review./ ~~[https://arxiv.org/abs/2112.02197 ArXiv]  \n
-with Nazar Emirov and Qiyu Sun
-
-### Journals
-:{*+\[J18\]+* *A Nonlocal Low-rank Regularization Method for Fractal Image Coding*}
-/Fractals, 29(2021), 2150125./ ~~[https://doi.org/10.1142/S0218348X21501255 Journal] \n
-with Yuru Zou, Huaxuan Hu, Jian Lu, Xiaoxia Liu, and Qingtang Jiang 
+<!-- ### Journals
+[J18] Yuru Zou, Huaxuan Hu, Jian Lu, Xiaoxia Liu, Qingtang Jiang, and Guohui Song, A Nonlocal Low-rank Regularization Method for Fractal Image Coding, Fractals, 29(2021), 2150125. [Journal](https://doi.org/10.1142/S0218348X21501255)
 
 :{*+\[J17\]+* *Multi-task Learning in Vector-valued Reproducing Kernel Banach Spaces
   with the $\ell^1$ Norm*}
@@ -107,4 +94,4 @@ with Yuesheng Xu
 
 :{*+\[J01\]+* *Approximation of Kernel Matrices by Circulant Matrices and Its Application in Kernel Selection Methods*}
 /Front. Math. China, 5(2010), 123-160./  ~~[http://dx.doi.org/10.1007/s11464-009-0054-0 Journal]\n
-with Yuesheng Xu
+with Yuesheng Xu -->
