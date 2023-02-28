@@ -3,9 +3,9 @@ title: Research
 ---
 ## Grants
 ### active
-+ [DMS-1939203](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1939203&HistoricalAwards=false)
++ NSF [DMS-1939203](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1939203&HistoricalAwards=false)
 ### expired
-+ [DMS-1521661](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1521661&HistoricalAwards=false)
++ NSF [DMS-1521661](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1521661&HistoricalAwards=false)
   
 ## Research Interests
 ### **Statistical Machine Learning**: Bayesian Learning; Kernel-based Methods; Sparse Approximation
