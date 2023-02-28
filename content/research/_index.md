@@ -8,9 +8,9 @@ title: Research
 + [DMS-1521661](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1521661&HistoricalAwards=false)
   
 ## Research Interests
-### Statistical Machine Learning: Bayesian Learning; Kernel-based Methods; Sparse Approximation
-### Optimization: Distributed/Decentralized Algorithms; Optimization on Networks
-### Applications: Synthetic-aperture radar (SAR); Magnetic Resonance Imaging (MRI); Financial Portfolio; Power Grids; Always looking for more...
+### **Statistical Machine Learning**: Bayesian Learning; Kernel-based Methods; Sparse Approximation
+### **Optimization**: Distributed/Decentralized Algorithms; Optimization on Networks
+### **Applications**: Synthetic-aperture radar (SAR); Magnetic Resonance Imaging (MRI); Financial Portfolio; Power Grids; Always looking for more...
 
 
 ## Recent Publications (see a complete list at [Google Scholar](https://scholar.google.com/citations?hl=en&user=8uOEmHgAAAAJ))
@@ -18,8 +18,8 @@ title: Research
 ### Yao Xiao, Anne Gelb, and Guohui Song, Sequential Edge Detection Using Joint Hierarchical Bayesian Learning, _Under Review_.
 ### Jin Ren, Guohui Song, Lucia Tabacu, and Yuesheng Xu, Fast Multiscale Functional Estimation in Optimal EMG Placement for Robotic Prosthesis Controllers, Journal of Integral Equations and Applications, _To Appear_. [ArXiv](https://arxiv.org/abs/2211.15042)
 ### Jan Glaubitz, Anne Gelb, and Guohui Song, Generalized Sparse Bayesian Learning and Application to Image Reconstruction, _Under Review_. [ArXiv](https://arxiv.org/abs/2201.07061)
-### Yao Xiao, Jan Glaubitz, Anne Gelb and Guohui Song, Sequential Image Recovery from Noisy and Under-sampled Fourier Data, _Under Review_. [ArXiv](https://arxiv.org/abs/2203.14746)
 ### Nazar Emirov, Guohui Song, and Qiyu Sun, A Divide-and-Conquer Algorithm for Distributed Optimization on Networks, _Under Review_. [ArXiv](https://arxiv.org/abs/2112.02197)
+### Yao Xiao, Jan Glaubitz, Anne Gelb and Guohui Song, Sequential Image Recovery from Noisy and Under-sampled Fourier Data, Journal of Scientific Computing, 91(2022). [ArXiv](https://arxiv.org/abs/2203.14746) [Journal](https://link.springer.com/article/10.1007/s10915-022-01850-7)
 
 <!-- ### Journals
 [J18] Yuru Zou, Huaxuan Hu, Jian Lu, Xiaoxia Liu, Qingtang Jiang, and Guohui Song, A Nonlocal Low-rank Regularization Method for Fractal Image Coding, Fractals, 29(2021), 2150125. [Journal](https://doi.org/10.1142/S0218348X21501255)
