@@ -4,7 +4,7 @@ title: Research
 ## Grants
 ### active
 + NSF [DMS-1939203](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1939203&HistoricalAwards=false)
-### expired
+### completed
 + NSF [DMS-1521661](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1521661&HistoricalAwards=false)
   
 ## Research Interests
