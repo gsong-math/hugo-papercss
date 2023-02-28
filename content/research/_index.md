@@ -1,5 +1,5 @@
 ---
-title:
+title: Research
 ---
 ## Grants
 ### active
