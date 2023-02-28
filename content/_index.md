@@ -29,8 +29,8 @@ title:
     <div class="text">
     <img src="/images/signature.jpg" alt="Chinese name" width="100px">
     <p>Associate Professor</p>
-    <p><a href="http://www.odu.edu/math">Department of Mathematics and Statistics</a></p>
-    <p><a href="http://www.odu.edu">Old Dominion University</a></p>
+    <p><a href="http://www.odu.edu/math", target="_blank">Department of Mathematics and Statistics</a></p>
+    <p><a href="http://www.odu.edu", target="_blank">Old Dominion University</a></p>
     <p>g[MyLastName]@odu.edu</p>
     </div>
 </div>
