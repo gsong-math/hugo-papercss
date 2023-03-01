@@ -8,7 +8,7 @@ title: Teaching
 ## Past Teaching
 
 <details>
-<summary> Old Dominion University</summary>
+<summary>Old Dominion University</summary>
 
 - Advanced Machine Learning Techniques (MATH 696)
   - 2020 Spring  

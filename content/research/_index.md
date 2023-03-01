@@ -15,7 +15,7 @@ title: Research
 
 ## Recent Publications (see a complete list at [Google Scholar](https://scholar.google.com/citations?hl=en&user=8uOEmHgAAAAJ))
 
-### Yao Xiao, Anne Gelb, and Guohui Song, Sequential Edge Detection Using Joint Hierarchical Bayesian Learning, _Under Review_.
+### Yao Xiao, Anne Gelb, and Guohui Song, Sequential Edge Detection Using Joint Hierarchical Bayesian Learning, _Under Review_. [ArXiv](https://arxiv.org/abs/2302.14247)
 ### Jin Ren, Guohui Song, Lucia Tabacu, and Yuesheng Xu, Fast Multiscale Functional Estimation in Optimal EMG Placement for Robotic Prosthesis Controllers, Journal of Integral Equations and Applications, _To Appear_. [ArXiv](https://arxiv.org/abs/2211.15042)
 ### Jan Glaubitz, Anne Gelb, and Guohui Song, Generalized Sparse Bayesian Learning and Application to Image Reconstruction, _Under Review_. [ArXiv](https://arxiv.org/abs/2201.07061)
 ### Nazar Emirov, Guohui Song, and Qiyu Sun, A Divide-and-Conquer Algorithm for Distributed Optimization on Networks, _Under Review_. [ArXiv](https://arxiv.org/abs/2112.02197)
